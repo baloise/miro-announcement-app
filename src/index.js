@@ -1,6 +1,6 @@
 async function announce() {
 	console.log("open announcement")
-	await miro.board.ui.openPanel({url: 'app.html'})
+	//await miro.board.ui.openPanel({url: 'app.html'})
 }
 
 async function init() {
